@@ -75,3 +75,6 @@ Thumbs.db
 .webpack
 # vscode
 .history/
+
+
+.lbop
